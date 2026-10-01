@@ -1,0 +1,3 @@
+flag: enable_loyalty_points
+type: flags
+value: false
