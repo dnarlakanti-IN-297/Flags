@@ -1,0 +1,6 @@
+flag: enable_loyalty_points
+type: flags
+description: Include loyalty_points_earned in the order detail API response.
+labels:
+  - backend
+  - loyalty
